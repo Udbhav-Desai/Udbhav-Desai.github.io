@@ -22,16 +22,17 @@
 
 ## Sections 📚
 
-✔️ About\
+\
 ✔️ Interests\
 
-<!-- ✔️ Education\ -->
-<!-- ✔️ Online Certification\ -->
 
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
+<!-- ✔️ Online Certification\ -->
+✔️ About
+✔️ Education
+✔️ Experience
+✔️ Projects 
+✔️ Skills 
+✔️ Resume
 
 
 ## License
